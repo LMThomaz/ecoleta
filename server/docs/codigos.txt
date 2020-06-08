@@ -1,0 +1,8 @@
+path.resolve 
+    => faz o replace do "," para o separador de diretório do seu ambiente
+
+__dirname 
+    => pega o caminho até a pasta atual
+
+app.use(express.json()); 
+    => Defindo que irá trabalhar no formato JSON

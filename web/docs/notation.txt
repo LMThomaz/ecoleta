@@ -1,0 +1,8 @@
+JSX -> Sintaxe de XML dentro do JavaScript
+
+const variavel: React.FC => Funciton Component, componente escrito em formato de função (generic)
+
+
+useState() => [valor do estado, função pra atualizar o valor do estado]
+
+Array ou Objeto => Precisamos informar manualmente o tipo da variável
