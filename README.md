@@ -25,17 +25,17 @@
   <img alt="License" src="https://img.shields.io/github/license/LMThomaz/ecoleta">
 </p>
 
-# :mag: Sobre o projeto
+## :mag: Sobre o projeto
 Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente ♻️  
 Desenvolvido durante a Next Level Week, oferecida pela [Rocketseat :rocket:][url-rocketseat] na verão **Booster** :coffee:  
 O NLW detêm muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 A criação do projeto veio com coincidência da data coincidir com a **semana do meio ambiente** :earth_americas:
 
-# :art: O protótipo?
+## :art: O protótipo?
 O layout da aplicação está disponível no [Figma][url-figma]   
 ![Capa Ecoleta](.github/capa.png)
 
-# :hammer: Tecnologias?
+## :hammer: Tecnologias?
 O projeto utiliza as seguintes ferramentas:
 * [TypeScript][url-ts]
 * [NodeJS][url-node]
@@ -43,7 +43,7 @@ O projeto utiliza as seguintes ferramentas:
 * [Expo][url-expo]
 * [React Native][url-react-native]
 
-# :electric_plug: Como usar?
+## :electric_plug: Como usar?
 > :bulb: A versão web e mobile depende que o server esteja sendo executado para seu funcionamento.
 
 Considerando que o projeto foi divido em três partes:
@@ -87,7 +87,7 @@ $ expo start
  
 ```
 
-# :coffee: Como posso ajudar?
+## :coffee: Como posso ajudar?
 1. Faça o Fork deste repositório
 2. Comece uma branch com sua feature 
 ```bash 
@@ -102,10 +102,10 @@ $ git commit -m 'Minha nova feature'
 $ git push origin minha-feature
 ```
 
-# :mortar_board: Quem ministrou ?
+## :mortar_board: Quem ministrou ?
 As aulas foram ministradas pelo [Diego Fernandes][diego], nas aulas do **Next Level Week 1.0 - Booster** :rocket:
 
-# :page_with_curl: Licença
+## :page_with_curl: Licença
 O projeto está utilizando a licença MIT. Confira [LICENSE][license] para mais detalhes.  
 
 ---
