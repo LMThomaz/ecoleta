@@ -8,8 +8,6 @@
 <p align="center">
   Next Level Week 1.0 🚀
   <br>
-  🚧 Projeto em desenvolvimento... 🚧
-  <br>
   <br>
 
   <img alt="Language count" src="https://img.shields.io/github/repo-size/LMThomaz/ecoleta"/>
